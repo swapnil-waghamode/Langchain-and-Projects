@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+langchain-openai
+langgraph
+dotenv
+streamlit
+sqlalchemy
+
+# tool we will use for search
+langchain-nimble
